@@ -17,6 +17,6 @@ public class Signup
         c.BilgiGiris();
         b.click_Login_counselor();
 
-        asdasdasdasa;
+        
     }
 }
